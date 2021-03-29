@@ -238,6 +238,15 @@ body {
     opacity: 0.8;
 }
 
+/*Not Found*/
+.notFound {
+    grid-template-columns: 1fr!important;
+    color: var(--tenne-tawny);
+    font-size: 1.9rem;
+    font-weight: 600;
+    width: 100%;
+}
+
 
 /* Media queries*/
 @media screen and (min-width: 600px) {
